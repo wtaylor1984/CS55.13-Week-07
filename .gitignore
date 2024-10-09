@@ -2,8 +2,3 @@ lib/firebase/config.js
 .next/
 .firebase/
 node_modules/
-apphosting.yaml
-database-debug.log
-firestore-debug.log
-ui-debug.log
-apphosting.yaml
