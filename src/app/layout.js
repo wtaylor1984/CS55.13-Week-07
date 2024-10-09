@@ -16,7 +16,7 @@ export default async function RootLayout({ children }) {
   const { currentUser } = await getAuthenticatedAppForUser();
   return (
     <html lang="en">
-<Header initialUser={currentUser?.toJSON()} />
+
       <body>
             <Header initialUser={currentUser?.toJSON()}/>
 
